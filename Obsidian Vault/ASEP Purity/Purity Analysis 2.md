@@ -1,4 +1,4 @@
-Possible Decompositions  for 2x3 purity 
+Possible Decompositions  for  2x3 purity 
 
 For simplicity 
 

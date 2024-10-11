@@ -36,6 +36,6 @@ $$
 
 
 
-In these, the number of square pairs are exactly the $(2n-2)Cr$ possibilities of pairs based on the $(2n-1)$ rank matrix eigenvalues. , ie, $(\frac{1}{2n-1},...,\frac{1}{2n-1},0)$.
+In these, the  number of square pairs are exactly the $(2n-2)Cr$ possibilities of pairs based on the $(2n-1)$ rank matrix eigenvalues. , ie, $(\frac{1}{2n-1},...,\frac{1}{2n-1},0)$.
 ==My concern however arises from the third terms  which could be/are negative!== 
 
